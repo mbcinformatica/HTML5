@@ -10,7 +10,7 @@
     </a>
 </p>
 
-# Site One Page
+# Site One Page d
 Aprenda HTML5, CSS3 e técnicas de SEO desenvolvendo passo a passo do "zero" até a hospedagem um site one page moderno e responsivo.
 
 Este repositório também hospeda o projeto final:
